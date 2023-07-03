@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bde3269-10c2-496a-99a1-c544875812d9" name="Changes" comment="11_Home_Work" />
+    <list default="true" id="3bde3269-10c2-496a-99a1-c544875812d9" name="Changes" comment="11HomeWork)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,11 +134,19 @@
       <option name="project" value="LOCAL" />
       <updated>1688392817173</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="11HomeWork">
+      <created>1688413116155</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688413116155</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add files" />
-    <option name="LAST_COMMIT_MESSAGE" value="add files" />
+    <MESSAGE value="11HomeWork" />
+    <option name="LAST_COMMIT_MESSAGE" value="11HomeWork" />
   </component>
 </project>
