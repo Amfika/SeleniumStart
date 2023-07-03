@@ -15,6 +15,6 @@ public class MyTest {
         WebElement links = driver.findElement(By.id("content"));
         WebElement link = links.findElement(By.linkText("Drag and Drop"));
         link.click();
-        //driver.quit();//закрыть браузер
+        driver.quit();//закрыть браузер
     }
 }

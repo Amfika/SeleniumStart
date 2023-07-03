@@ -9,7 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bde3269-10c2-496a-99a1-c544875812d9" name="Changes" comment="add files" />
+    <list default="true" id="3bde3269-10c2-496a-99a1-c544875812d9" name="Changes" comment="11_Home_Work" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +40,7 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="first-branch" />
-                    <option name="lastUsedInstant" value="1688392839" />
+                    <option name="lastUsedInstant" value="1688412813" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="master" />
@@ -71,18 +71,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/User/CloneProjects/SeleniumStart/SeleniumStart/SeleniumStart",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/CloneProjects/SeleniumStart/SeleniumStart/SeleniumStart&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="MyTest.firstTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumStart" />
@@ -104,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.MyTest.firstTest" />
         <item itemvalue="TestNG.MyTest.firstTest" />
       </list>
     </recent_temporary>
